@@ -1,0 +1,96 @@
+{
+    "name": "",
+    "Vehicle":[
+        {
+            "name": "",
+            "label": ""
+        },
+        {
+            "name": "",
+            "label": ""
+        },
+        {
+            "name": "",
+            "label": ""
+        },
+        {
+            "name": "",
+            "label": ""
+        }
+    ],
+    "Vehicle_spawn": {
+        "x": "",
+        "y":"",
+        "z":"",
+        "angle": ""
+    },
+    "Vehicle_return_place": {
+        "x": "",
+        "y":"",
+        "z":""
+    },
+    "Vehicle_menu": {
+        "x":"",
+        "y":"",
+        "z":""
+    },
+    "Armories": {
+        "x":"",
+        "y":"",
+        "z":""
+    },
+    "Boss":{
+        "x":"",
+        "y":"",
+        "z": ""
+    },
+    "Cloakroom":{
+        "use": false,
+        "x":"",
+        "y":"",
+        "z":""
+    },
+    "Blips": {
+        "blips_infos":{
+            "x": "0",
+            "y": "0",
+            "z": "0",
+            "id": "0",
+            "color": "0",
+            "radius": "0"
+        }
+    },
+    
+    "Grades": [
+        {   
+            "number": 0,
+            "name": "",
+            "label": ""
+        },
+        {
+            "number": 1,
+            "name": "",
+            "label": ""
+        },
+        {
+            "number": 2,
+            "name": "",
+            "label": ""
+        },
+        {
+            "number": 3,
+            "name": "",
+            "label": ""
+        },
+        {
+            "number": 4,
+            "name": "",
+            "label": ""
+        },
+        {
+            "number": 5,
+            "name": "",
+            "label": ""
+        }
+    ]
+}
